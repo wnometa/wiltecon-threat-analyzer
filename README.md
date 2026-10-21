@@ -1,2 +1,3 @@
 # wiltecon-threat-analyzer
 A lightweight real-time SIEM and threat detection engine built with Python and Streamlit, featuring automated log generation and heuristic threat hunting. Engineered by Wiltecon Technologies
+An open-source security intelligence utility that bypasses heavy virtualization sandboxes to perform offline and real-time log analysis. It features a background security event generator, an automated regex-based heuristic parsing engine (detector.py), and an interactive Security Operations Center (SOC) dashboard built with Streamlit. Developed by Wilson Nometa under Wiltecon Technologies.
